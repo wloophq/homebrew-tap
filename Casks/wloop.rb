@@ -24,7 +24,7 @@ cask "wloop" do
   end
 
   name "wloop"
-  desc "Closes the loop between GitHub pull requests and AI coding agents."
+  desc "Work loop for GitHub and Slack, with AI coding agents in local worktrees"
   homepage "https://github.com/wloophq/wloop"
 
   livecheck do
